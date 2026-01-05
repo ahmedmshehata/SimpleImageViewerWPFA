@@ -38,3 +38,5 @@ TestResults/
 # Others
 *.user
 *.suo
+/SimpleImageViewer/bin
+/SimpleImageViewer/obj
