@@ -1,0 +1,40 @@
+# Build outputs
+/bin/
+/obj/
+/publish/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# NuGet
+*.nupkg
+.packages/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.cache
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Test results
+TestResults/
+
+# Others
+*.user
+*.suo
